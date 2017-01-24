@@ -1,0 +1,26 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "Simple application for testing purposes.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pz3r/simple-node.git"
+  },
+  "author": "Samuel Pozaicer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pz3r/simple-node/issues"
+  },
+  "homepage": "https://github.com/Pz3r/simple-node#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "supertest": "^2.0.1"
+  }
+}
